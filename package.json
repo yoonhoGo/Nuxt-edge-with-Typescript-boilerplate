@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "nuxt-edge": "^2.0.0-25609473.c77fa47",
-    "nuxt-property-decorator": "^1.2.0"
+    "nuxt-property-decorator": "^1.2.0",
+    "vuex-class": "^0.3.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
