@@ -1,6 +1,10 @@
-# portfolio
+# Nuxt-edge(nuxt.js v2.0) with Typescript Boilerplate
 
-> my portfolio site with AUSG
+> my portfolio site
+
+* [nuxt-edge(Nuxt.js version 2.0)](https://www.npmjs.com/package/nuxt-edge)
+* [typescript](https://github.com/Microsoft/TypeScript)
+* [nuxt-property-decorator](https://github.com/nuxt-community/nuxt-property-decorator)
 
 ## Build Setup
 
